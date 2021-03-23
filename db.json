@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JavaScript post",
+      "body": " some comment some comment some comment some comment some comment some comment ",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Посто про Javascript",
+      "body": " джаваскрипт класс джаваскрипт класс джаваскрипт класс джаваскрипт класс джаваскрипт класс "
+    },
+    {
+      "id": 3,
+      "title": "Посто про отдых",
+      "body": " люблю отдых люблю отдых люблю отдых люблю отдых люблю отдых люблю отдых люблю отдых "
+    }
+  ],
+  "about": {
+    "title": "Страница про нас"
+  }
+}
